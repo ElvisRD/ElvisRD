@@ -62,14 +62,7 @@ ElvisRD</a></h1>
     </ul>
   </div> 
 
-   <a href="https://www.instagram.com/_elvisrd_">
-     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
-   </a>
-   <a href="https://www.linkedin.com/in/elvis-rodriguez-duran-22a383303/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlHrWsHSGZCJfVrTfDRHDXxsCFmsDwlmXLjjqCpGsxlMWQvQFGpZvKpgZSvwfNGzTdNvh"> 
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-   </a>
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_elvisrd_)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-rodriguez-duran-22a383303/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com) 
+
   
 </div>
